@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# 🚀 Bhavya Soni – Developer Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio website – a clean, modern, and responsive portfolio built using **React**, **Tailwind CSS**, and deployed via **Vercel**.
 
-## Available Scripts
+## 🔗 Live Demo
 
-In the project directory, you can run:
+👉 [Visit Website](https://bhavya-portfolio-orcin.vercel.app/)
 
-### `npm start`
+## 📌 About Me
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Hi! I’m **Bhavya Soni**, a passionate full-stack developer and electronics enthusiast.  
+With expertise in both **software** and **hardware**, I blend technologies like React, Node.js, MongoDB, and VLSI tools (Cadence, HFSS) to build powerful end-to-end solutions.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🧠 Skills
 
-### `npm test`
+- **Programming:** C++, C, SQL, Java, Python, Bash
+- **Frontend:** React, Redux, React Router, Tailwind CSS, Material UI
+- **Backend:** Node.js, Express.js, Flask, MongoDB, PyTorch, TensorFlow
+- **Core Tools:** Cadence, LT Spice, ModelSim, HFSS, Embedded C, Linux
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💡 Projects
 
-### `npm run build`
+- **SMART FIR Portal:** Secure FIR system with multilingual input and IPC prediction.
+- **Posture Analysis:** Real-time pose tracking and injury risk detection using OpenCV.
+- **Lung Cancer Detection:** AI-based CT scan classifier using SVM.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📩 Contact Me
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This website features a built-in contact form.  
+All messages are sent directly to my email using **EmailJS**.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+### 🛠️ Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Frontend:** React, Tailwind CSS, Framer Motion
+- **Backend (contact form):** EmailJS
+- **Deployment:** Vercel
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> Designed & built with 💙 by Bhavya Soni  
+> [LinkedIn](https://www.linkedin.com/in/bhavya-soni-9684b3229/) • [GitHub](https://github.com/1Bhavyasoni)
